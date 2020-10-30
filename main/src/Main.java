@@ -17,5 +17,6 @@ public class Main {
 
     public static int MyMethod(int a, int b){
         return(a + b);
+
     }
 }
